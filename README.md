@@ -2,8 +2,7 @@
 
 Airbnb Redesign UI Flutter project.
 
-<img src='assets/screenshots/Screenshot_1604638567.png' heigth='300' width='250'> 
-<img src='assets/screenshots/Screenshot_1604638575.png' heigth='300' width='250'>
+<img src='assets/screenshots/Screenshot_1604638567.png' heigth='300' width='250'> <img src='assets/screenshots/Screenshot_1604638575.png' heigth='300' width='250'>
 
 ## Getting Started
 
